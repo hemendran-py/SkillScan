@@ -1,4 +1,4 @@
-# 🔍 Skill Gap Analyzer
+# Skill-Scan
 
 A smart web application built with **Next.js** and **Tailwind CSS** that helps users identify gaps in their skills for specific tech job roles — and provides personalized learning resources to bridge those gaps.
 
