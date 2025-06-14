@@ -15,15 +15,13 @@ A smart web application built with **Next.js** and **Tailwind CSS** that helps u
 
 ## 📸 Screenshots
 
-### 🔧 Input Form
 
-![Form Screenshot](./public/screenshots/form.png)
 
-### 📊 Results with Suggestions
+<img src="https://github.com/user-attachments/assets/ce4838ba-c6b8-46c7-8c57-140d4493c326" width="700" />
 
-![Results Screenshot](./public/screenshots/results.png)
 
-> 📁 _Add your screenshots to the `public/screenshots/` folder for them to display properly._
+
+
 
 ---
 
